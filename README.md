@@ -1,4 +1,6 @@
-# Rep Log
+# Plato
+
+Strength, reasoned.
 
 Workout tracker — log sets, rest timer, plate loader, 3D exercise guides, goal-based sets/reps/rest, progress charts.
 

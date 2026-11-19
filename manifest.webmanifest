@@ -1,6 +1,6 @@
 {
-  "name": "Rep Log",
-  "short_name": "Rep Log",
+  "name": "Plato",
+  "short_name": "Plato",
   "description": "Workout tracker with 3D exercise guides and goal-based programming",
   "start_url": "./",
   "scope": "./",
